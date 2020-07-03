@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1593751761 source:c:\users\o\desktop\tpi lab1\tpi lab1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"menu.h"
+
+1593757090 c:\users\o\desktop\tpi lab1\tpi lab1\juego.h
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"dado.h"
+
+1593755383 c:\users\o\desktop\tpi lab1\tpi lab1\menu.h
+	<iostream>
+	<stdlib.h>
+	"juego.h"
+
+1593747787 c:\users\o\desktop\tpi lab1\tpi lab1\dado.h
+	<iostream>
+	<stdlib.h>
+
