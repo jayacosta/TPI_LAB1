@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1594571743 source:c:\users\o\test\test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+
+1594572291 c:\users\o\test\test\juego.h
+	<iostream>
+	<stdlib.h>
+
+1594937382 source:c:\users\o\desktop\test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"testcombinaciones.h"
+
+1594938988 c:\users\o\desktop\test\testcombinaciones.h
+
+1594960509 source:c:\users\o\desktop\test nuestro\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"testcombinaciones.h"
+	"mostrar_dado.h"
+
+1594955420 c:\users\o\desktop\test nuestro\testcombinaciones.h
+
+1594954759 c:\users\o\desktop\test nuestro\mostrar_dado.h
+
+1595026038 source:c:\users\o\desktop\test nuestro actual\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"testcombinaciones.h"
+	"mostrar_dado.h"
+
+1594955420 c:\users\o\desktop\test nuestro actual\testcombinaciones.h
+
+1595021499 c:\users\o\desktop\test nuestro actual\mostrar_dado.h
+
+1595257690 source:c:\users\o\desktop\generala v0.5 (wip)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"testcombinaciones.h"
+	"mostrar_dado.h"
+
+1595257735 c:\users\o\desktop\generala v0.5 (wip)\testcombinaciones.h
+
+1595026385 c:\users\o\desktop\generala v0.5 (wip)\mostrar_dado.h
+
